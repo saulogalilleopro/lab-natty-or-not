@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de Imagens com animaçãoes realistas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Serão criadas imagenscom acnição de uma catenga
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI, Luma e Copilot Edge.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei a criação de variações de katengas em praia, com óculosde sol entre outras
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+@Katiakatenga no instagram
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Versões realistas geradas por IA
 ```
 
 ### Exemplos e Insigths
