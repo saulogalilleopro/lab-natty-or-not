@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Criação de Imagens com animaçãoes realistas
 
 ## 📒 Descrição
-Serão criadas imagenscom acnição de uma catenga
+Serão criadas imagens com animação de uma catenga
 
 ## 🤖 Tecnologias Utilizadas
 Leonardo AI, Luma e Copilot Edge.
